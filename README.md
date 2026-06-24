@@ -1,6 +1,6 @@
 # Anime Recommendation System 🎌
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://YOUR-STREAMLIT-APP.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://anime-recommender-system-xr8mhifbmbappybdyelbkb4.streamlit.app/)
 
 A Content-Based Anime Recommendation System built using Python, Streamlit, and Jikan API.
 
